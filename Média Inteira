@@ -1,0 +1,10 @@
+programa {
+  funcao inicio() {
+    
+    inteiro a, b, resultado
+    leia(a)
+    leia(b)
+    resultado = (a+b)/2
+    escreva(resultado)
+  }
+}
