@@ -1,13 +1,10 @@
-programa 
-{
-    funcao inicio() 
-  {
+programa {
+    funcao inicio() {
     
     inteiro curupira, boitata, boto, mapinguari, lara 
 
     leia (curupira, boitata, boto, mapinguari, lara)
 
     escreva (curupira * 300 + boitata * 1500 + boto * 600 + mapinguari * 1000 + lara * 150 + 225)
-    
   }
 }
