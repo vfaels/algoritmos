@@ -1,0 +1,13 @@
+programa 
+{
+    funcao inicio() 
+  {
+    
+    inteiro pessoas
+
+    leia(pessoas)
+
+    escreva(pessoas * 4)
+    
+  }
+}
