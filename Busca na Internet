@@ -1,13 +1,9 @@
-programa 
-{
-    funcao inicio() 
-  {
-    
+programa {
+    funcao inicio() {
     inteiro pessoas
 
-    leia(pessoas)
+    leia (pessoas)
 
-    escreva(pessoas * 4)
-    
+    escreva (pessoas * 4)  
   }
 }
