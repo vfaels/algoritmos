@@ -1,0 +1,15 @@
+programa 
+{
+    funcao inicio() 
+  {
+    
+    inteiro resultado , valor
+
+    leia(valor)
+
+    resultado = (valor * valor * valor)     
+
+    escreva(resultado)
+    
+  }
+}
