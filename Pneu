@@ -1,0 +1,16 @@
+programa 
+{
+    funcao inicio() 
+  {
+    
+    inteiro pressaoD , pressaoL , dif
+
+    leia(pressaoD)
+    leia(pressaoL)
+
+    dif = pressaoD - pressaoL     
+
+    escreva(dif)
+    
+  }
+}
