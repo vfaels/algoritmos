@@ -1,15 +1,11 @@
-programa 
-{
-    funcao inicio() 
-  {
-    
-    inteiro resultado , valor
+programa {
+    funcao inicio() {
+        inteiro resultado , valor
 
-    leia(valor)
+        leia (valor)
 
-    resultado = (valor * valor * valor)     
+        resultado = (valor * valor * valor)     
 
-    escreva(resultado)
-    
+        escreva (resultado)
   }
 }
