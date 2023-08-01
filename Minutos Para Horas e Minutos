@@ -1,0 +1,14 @@
+programa {
+  funcao inicio() {
+    inteiro minutos, horas, resto
+
+    leia(minutos)
+    
+    horas = minutos / 60
+    resto = minutos % 60
+
+    escreva (horas)
+    escreva ("\n",resto)
+
+  }
+}
