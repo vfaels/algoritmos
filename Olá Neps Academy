@@ -1,5 +1,5 @@
 programa {
   funcao inicio() {
-    escreva("Ola Neps Academy!")
+    escreva ("Ola Neps Academy!")
   }
 }
