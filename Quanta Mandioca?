@@ -3,15 +3,11 @@ programa
     funcao inicio() 
   {
     
-    inteiro curupira , boitata , boto , mapinguari , lara 
+    inteiro curupira, boitata, boto, mapinguari, lara 
 
-    leia(curupira)
-    leia(boitata)
-    leia(boto)
-    leia(mapinguari)
-    leia(lara)
+    leia (curupira, boitata, boto, mapinguari, lara)
 
-    escreva(curupira * 300 + boitata * 1500 + boto * 600 + mapinguari * 1000 + lara * 150 + 225)
+    escreva (curupira * 300 + boitata * 1500 + boto * 600 + mapinguari * 1000 + lara * 150 + 225)
     
   }
 }
