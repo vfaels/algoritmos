@@ -1,0 +1,26 @@
+programa 
+{
+    funcao inicio() 
+  {
+    
+    inteiro curupira , boitata , boto , mapinguari , lara , resultado
+
+    leia(curupira)
+    leia(boitata)
+    leia(boto)
+    leia(mapinguari)
+    leia(lara)
+    
+
+    curupira = 300 * curupira
+    boitata = 1500 * boitata
+    boto = 600 * boto
+    mapinguari = 1000 * mapinguari
+    lara = 150 * lara
+   
+    resultado = curupira + boitata + boto + mapinguari + lara + 225
+    escreva(resultado)
+    
+  }
+}
+
