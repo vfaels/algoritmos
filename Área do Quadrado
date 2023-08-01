@@ -1,8 +1,9 @@
 programa {
   funcao inicio() {
-    
     inteiro a, b
+
     leia(a)
+
     b = a * a
     
     escreva(b)
