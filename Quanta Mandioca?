@@ -3,24 +3,15 @@ programa
     funcao inicio() 
   {
     
-    inteiro curupira , boitata , boto , mapinguari , lara , resultado
+    inteiro curupira , boitata , boto , mapinguari , lara 
 
     leia(curupira)
     leia(boitata)
     leia(boto)
     leia(mapinguari)
     leia(lara)
-    
 
-    curupira = 300 * curupira
-    boitata = 1500 * boitata
-    boto = 600 * boto
-    mapinguari = 1000 * mapinguari
-    lara = 150 * lara
-   
-    resultado = curupira + boitata + boto + mapinguari + lara + 225
-    escreva(resultado)
+    escreva(curupira * 300 + boitata * 1500 + boto * 600 + mapinguari * 1000 + lara * 150 + 225)
     
   }
 }
-
