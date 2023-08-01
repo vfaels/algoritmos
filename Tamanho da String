@@ -1,0 +1,17 @@
+programa
+{
+	inclua biblioteca Texto --> tx
+	
+	funcao inicio()
+	{
+		cadeia nome
+		inteiro tamanho
+	
+		leia(nome)
+
+		tamanho = tx.numero_caracteres(nome)
+
+		escreva(tamanho)
+		
+	}
+}
