@@ -9,6 +9,5 @@ programa {
 
     escreva (horas)
     escreva ("\n",resto)
-
   }
 }
