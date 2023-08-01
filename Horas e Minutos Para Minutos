@@ -1,12 +1,11 @@
-programa 
-{
-  funcao inicio() 
-  {
-    
+programa {
+  funcao inicio() {
     inteiro a, b, c
-    leia(a)
-    leia(b)
-    c = a * 60        
+
+    leia(a, b)
+
+    c = a * 60 
+
     escreva(c + b)
   }
 }
