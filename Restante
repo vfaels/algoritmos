@@ -1,15 +1,13 @@
-programa 
-{
-    funcao inicio() 
-  {
+programa {
+    funcao inicio() {
     
-    inteiro resultado , valor
+    inteiro resultado, valor
 
-    leia(valor)
+    leia (valor)
 
     resultado = (valor % 21)     
 
-    escreva(resultado)
+    escreva (resultado)
     
   }
 }
